@@ -1,1 +1,1 @@
-# estudos_rue
+# Repositório para estudos na linguagem Rust
